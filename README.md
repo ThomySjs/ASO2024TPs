@@ -7,5 +7,5 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Trabajos Prácticos***
 
 <header align="left">
-   <h1 align="left">TP N2
+   <h3 align="left">Trabajo Práctico n2 <img src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA" width="30">
 </header>
