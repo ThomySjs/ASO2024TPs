@@ -1,8 +1,6 @@
-<p align="center">
 ## :computer: Arquitectura de Sistemas Operativos :computer: ##
-</p>
-<p align="center">
 # :star: Thomas Sejas :star: #
-</p>
-<img src="./logo.png" />
 
+<img align ="right" width=300px src="./logo.png" height="300"/>
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Trabajos Prácticos***
