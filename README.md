@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Trabajos Prácticos***
 
 <header align="left">
-   <h3 align="left">Trabajo Práctico n2 <image src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA" width="30">
+   <h3 align="left">Trabajo Práctico n2 <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd1bHdiZWx5bzdleWk3ZDg4bWM0M3FhOTBvNGhmOWJzems1ZzJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
       <h4 align="left"> El trabajo practico consiste en aprender lo basico de github </h4>
          <ul>
              <li> Lo primero fue crear un repositorio en GH y vincularlo con el repo local</li>
