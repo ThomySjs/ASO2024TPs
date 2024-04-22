@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Trabajos Prácticos***
 <!-- This aligns everything below to the left -->
 <header align="left">
-   <h3 align="left">Trabajo Práctico N2 <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd1bHdiZWx5bzdleWk3ZDg4bWM0M3FhOTBvNGhmOWJzems1ZzJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+   <h3 align="left"> <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd1bHdiZWx5bzdleWk3ZDg4bWM0M3FhOTBvNGhmOWJzems1ZzJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30">Trabajo Práctico N2 
       <h4 align="left"> El trabajo practico consiste en aprender lo basico de github </h4>
          <!-- Unordered List -->
          <ul>
@@ -18,7 +18,6 @@
              <li> Agregamos el archivo Procesos.c y lo compilamos.</li>
              <img src="https://cdn.discordapp.com/attachments/757743068656173097/1231927538566041651/Untitled-2.png?ex=6638bced&is=662647ed&hm=070173a8355c67d618a91f37593b45a7d6b53790d33e83dc2b4eb0462346b25f&" alt=""/>
              
-         </ul>
               
    </h3>
 </header>
