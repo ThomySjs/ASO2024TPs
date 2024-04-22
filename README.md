@@ -11,8 +11,13 @@
       <h4 align="left"> El trabajo practico consiste en aprender lo basico de github </h4>
          <!-- Unordered List -->
          <ul>
-             <li> Creamos un repositorio en GH y vincularlo con el repo local
-             <img src="https://cdn.discordapp.com/attachments/757743068656173097/1231753326253703208/Screenshot_19.png?ex=66381aad&is=6625a5ad&hm=2ae54dfda95b0286b1bb70e2cde573fb22c3951b0c1dfc3fd2d8e2e53441f479&" alt=""/>             </li>
+             <li> Creamos un repositorio en GH y lo vinculamos con el repo local.</li>
+             <img src="https://cdn.discordapp.com/attachments/757743068656173097/1231753326253703208/Screenshot_19.png?ex=66381aad&is=6625a5ad&hm=2ae54dfda95b0286b1bb70e2cde573fb22c3951b0c1dfc3fd2d8e2e53441f479&" alt=""/>             
+             <img src="https://cdn.discordapp.com/attachments/757743068656173097/1231753326501302403/Screenshot_20.png?ex=66381aad&is=6625a5ad&hm=a11fee43209e0f7099831b18ed3029e7d5edd4149622bad24f18c59b7b1ed392&" alt=""/>
+             <li> Agregamos el archivo Procesos.c y lo compilamos.
+             <img src="
+             
          </ul>
+              
    </h3>
 </header>
