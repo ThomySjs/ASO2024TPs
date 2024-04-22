@@ -8,7 +8,7 @@
 <!-- This aligns everything below to the left -->
 <header align="left">
    <h3 align="left"> <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd1bHdiZWx5bzdleWk3ZDg4bWM0M3FhOTBvNGhmOWJzems1ZzJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30">Trabajo Práctico N2 
-      <h4 align="left"> El trabajo practico consiste en aprender lo basico de github </h4>
+      <h4 align="left"> El trabajo práctico consiste en aprender lo basico de github </h4>
          <!-- Unordered List -->
          <ul>
              <li> Instalamos git. </li>
