@@ -28,13 +28,13 @@
              
               
    </h3>
-   <h3> <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo4emV5bG5vNnJ5dzB3MXJpMXdzNmlkbmQ0dHd3NGhmaHgwbGY3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVmh7HR0cA2xOlet1z/giphy.gif" width="30">Trabajo Práctico N3
+   <h3 align="left"> <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo4emV5bG5vNnJ5dzB3MXJpMXdzNmlkbmQ0dHd3NGhmaHgwbGY3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVmh7HR0cA2xOlet1z/giphy.gif" width="30">Trabajo Práctico N3
       <h4 align="left"> Entendiendo el funcionamientos de los hilos </h4>
       <!-- Unordered List -->
       <ul>
          <li> El punto 1 ejemplifica la diferencia de velocidad entre un proceso con y sin hilos. </li>
          <img src="https://cdn.discordapp.com/attachments/757743068656173097/1235920756077105202/Screenshot_2.jpg?ex=66362066&is=6634cee6&hm=5365dc7230824580dd29fe73cb87c14c7afdeed402248fc40153fc3c016c435a&" alt=""/>
          <img src="https://cdn.discordapp.com/attachments/757743068656173097/1235920756391804979/Screenshot_1.jpg?ex=66362066&is=6634cee6&hm=c403205dbe1118ade13ea2b2118aaea478c4befeeee4e8ab7c3324b6aa48694f&" alt=""/>
-        
+   </h3>
          
 </header>
