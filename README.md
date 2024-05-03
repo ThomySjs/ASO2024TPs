@@ -36,6 +36,10 @@
              <li> El punto 1 ejemplifica la diferencia de velocidad entre un proceso con y sin hilos. </li>
              <img src="https://cdn.discordapp.com/attachments/757743068656173097/1235920756077105202/Screenshot_2.jpg?ex=66362066&is=6634cee6&hm=5365dc7230824580dd29fe73cb87c14c7afdeed402248fc40153fc3c016c435a&" alt=""/>
              <img src="https://cdn.discordapp.com/attachments/757743068656173097/1235920756391804979/Screenshot_1.jpg?ex=66362066&is=6634cee6&hm=c403205dbe1118ade13ea2b2118aaea478c4befeeee4e8ab7c3324b6aa48694f&" alt=""/>
+             <h5> A: Usando hilos el tiempo de ejecución es menor ya que las 3 tareas tienen asignadas un hilo cada una 
+                     por lo que se ejecutan al mismo tiempo a diferencia del programa sin hilos donde se ejecuta primero
+                     la tarea 1 y hasta que no termina el otro proceso no arranca. 
+             </h5>
    </h3>
          
 </header>
