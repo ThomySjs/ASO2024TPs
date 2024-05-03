@@ -36,9 +36,16 @@
              <li> El punto 1 ejemplifica la diferencia de velocidad entre un proceso con y sin hilos. </li>
              <img src="https://cdn.discordapp.com/attachments/757743068656173097/1235920756077105202/Screenshot_2.jpg?ex=66362066&is=6634cee6&hm=5365dc7230824580dd29fe73cb87c14c7afdeed402248fc40153fc3c016c435a&" alt=""/>
              <img src="https://cdn.discordapp.com/attachments/757743068656173097/1235920756391804979/Screenshot_1.jpg?ex=66362066&is=6634cee6&hm=c403205dbe1118ade13ea2b2118aaea478c4befeeee4e8ab7c3324b6aa48694f&" alt=""/>
-             <h5> A: Usando hilos el tiempo de ejecución es menor ya que las 3 tareas tienen asignadas un hilo cada una 
-                     por lo que se ejecutan al mismo tiempo a diferencia del programa sin hilos donde se ejecuta primero
-                     la tarea 1 y hasta que no termina el otro proceso no arranca. 
+             <h5> A: Considero que usando hilos para cada tarea el tiempo de ejecución es menor porque trabajan todos en paralelo. En el caso de "sinhilos.py"
+                     el codigo llama primero a la funcion tarea1, cuando termina recien empieza con tarea2 por lo que teniendo 2 time.sleep() se suman los 
+                     segundos y el tiempo de la primera tarea, con un resultado de 5.1 segundos aprox. Por otra parte "conhilos.py" si bien tiene las mismas 
+                     tareas, al iniciar en paralelo los time.sleep() se pisan entonces el que tarda 1s y el que tarda 4s corren al mismo tiempo por lo que el 
+                     resultado va a ser 4.1 segundos (lo que tarda despues de los 4 o 5 segundos es el tiempo que toma en procesar la tarea1). 
+                     Creo que si es predecible pero depende del codigo y la velocidad de la computadora. 
+
+                  B: Comparando con 2 compañeros, llegué a la conclusion de que el tiempo de la ejecucion depende de las 
+                     especificaciones de la computadora (Procesador, sistema operativo, etc) ya que si bien con el primer compañero la diferencia
+                     era minima, con el segundo fue casi de 1 segundo en el programa sinhilos.py (él usando windows y yo linux).
              </h5>
    </h3>
          
