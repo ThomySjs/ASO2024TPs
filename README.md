@@ -41,8 +41,7 @@
                      segundos y el tiempo de la primera tarea, con un resultado de 5.1 segundos aprox. Por otra parte "conhilos.py" si bien tiene las mismas 
                      tareas, al iniciar en paralelo los time.sleep() se pisan entonces el que tarda 1s y el que tarda 4s corren al mismo tiempo por lo que el 
                      resultado va a ser 4.1 segundos (lo que tarda despues de los 4 o 5 segundos es el tiempo que toma en procesar la tarea1). 
-                     Creo que si es predecible pero depende del codigo y la velocidad de la computadora. </h5>    
-             <br>        
+                     Creo que si es predecible pero depende del codigo y la velocidad de la computadora. </h5>            
              <h5> B: Comparando con 2 compañeros, llegué a la conclusión de que el tiempo de ejecución depende de las especificaciones de la computadora
                      (Procesador, sistema operativo,etc) ya que si bien con el primer compañero la diferencia era mínima (mismo sistema operativo y especificaciones
                      similares) con el segundo hubo casi 1s de diferencia. </h5>
