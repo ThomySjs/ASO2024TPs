@@ -25,6 +25,7 @@
              <img src="https://cdn.discordapp.com/attachments/757743068656173097/1231931651207069746/Screenshot_29.png?ex=6638c0c1&is=66264bc1&hm=bc1c343c421629faa0d2a0c992d5369c677a7334a2695f00294f86e276d5c2b9&" alt=""/>
              <br>
              <img src="https://cdn.discordapp.com/attachments/757743068656173097/1231931651630829628/Screenshot_30.png?ex=6638c0c1&is=66264bc1&hm=e68064d7dad64a6abcad71f7b37c35747130088f372c79cf978bb71ee29864f8&" alt=""/>
+         </ul>
              
               
    </h3>
