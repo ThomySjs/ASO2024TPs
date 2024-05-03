@@ -28,7 +28,7 @@
              
               
    </h3>
-   <h3> <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo4emV5bG5vNnJ5dzB3MXJpMXdzNmlkbmQ0dHd3NGhmaHgwbGY3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVmh7HR0cA2xOlet1z/giphy.gif" width"30">Trabajo Práctico N3
+   <h3> <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo4emV5bG5vNnJ5dzB3MXJpMXdzNmlkbmQ0dHd3NGhmaHgwbGY3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVmh7HR0cA2xOlet1z/giphy.gif" width="30">Trabajo Práctico N3
       <h4 align="left"> Entendiendo el funcionamientos de los hilos </h4>
       <!-- Unordered List -->
       <ul>
