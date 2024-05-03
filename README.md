@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Trabajos Prácticos (resumido)***
 <!-- This aligns everything below to the left -->
 <header align="left">
-   <h3 align="left"> <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd1bHdiZWx5bzdleWk3ZDg4bWM0M3FhOTBvNGhmOWJzems1ZzJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30">Trabajo Práctico N2 
+   <h3 align="left"> <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd1bHdiZWx5bzdleWk3ZDg4bWM0M3FhOTBvNGhmOWJzems1ZzJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;Trabajo Práctico N2 
       <h4 align="left"> El trabajo práctico consiste en aprender lo basico de github </h4>
          <!-- Unordered List -->
          <ul>
@@ -29,7 +29,7 @@
              
               
    </h3>
-   <h3 align="left"> <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo4emV5bG5vNnJ5dzB3MXJpMXdzNmlkbmQ0dHd3NGhmaHgwbGY3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVmh7HR0cA2xOlet1z/giphy.gif" width="30">Trabajo Práctico N3
+   <h3 align="left"> <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo4emV5bG5vNnJ5dzB3MXJpMXdzNmlkbmQ0dHd3NGhmaHgwbGY3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVmh7HR0cA2xOlet1z/giphy.gif" width="30">&nbsp;Trabajo Práctico N3
       <h4 align="left"> Entendiendo el funcionamientos de los hilos </h4>
          <!-- Unordered List -->
          <ul>
