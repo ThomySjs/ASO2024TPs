@@ -7,14 +7,14 @@ rango = 100000
 def sumador():
     global acumulador
     for x in range(rango):
-        a = acumulador + 10
+        a = acumulador + 5
         #for i in range(1000):
             #pass
         acumulador = a
 def restador():
     global acumulador
     for x in range(rango):
-        a = acumulador - 10
+        a = acumulador - 5
         #for i in range(1000):
              #pass
         acumulador = a

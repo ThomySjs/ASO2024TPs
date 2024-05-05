@@ -51,8 +51,7 @@
                      depende de qué hilo llega primero. Además, el código sin el segundo bucle for termina considerablemente más rápido que el otro, justamente por el retraso 
                      generado (0.05 aprox en el código con 1 solo bucle for y 15 segundos en el código extendido). 
                      En resumen, si llega primero la función "restadora", el número va a ser negativo, por el contrario, si llega la función "suma", el resultado será 
-                     positivo y si llegan al mismo tiempo (como pasa en la primer versión del código) el resultado va a ser 0. </h5>
-                  
+                     positivo y si llegan al mismo tiempo (como pasa en la primer versión del código) el resultado va a ser 0. </h5> 
       </h4>      
    </h3>
          
