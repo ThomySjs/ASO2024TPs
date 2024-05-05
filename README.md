@@ -45,6 +45,14 @@
              <h5> B: Comparando con 2 compañeros, llegué a la conclusión de que el tiempo de ejecución depende de las especificaciones de la computadora
                      (Procesador, sistema operativo,etc) ya que si bien con el primer compañero la diferencia era mínima (mismo sistema operativo y especificaciones
                      similares) con el segundo hubo casi 1s de diferencia. </h5>
+             <h5> C: Al ejecutar el código antes de borrar los #, dio como resultado 0 porque ambas funciones modifican la misma cantidad de veces la variable acumulador (+5 -5), 
+                     por lo que siempre va a ser 0. La cosa cambia cuando agregamos el segundo bucle for ya que funciona como una especie de retraso en el proceso, lo que hace 
+                     difícil de predecir el resultado final, sobre todo porque los hilos al no recorrer a la misma velocidad entran en una "condición de carrera" donde el resultado 
+                     depende de qué hilo llega primero. Además, el código sin el segundo bucle for termina considerablemente más rápido que el otro, justamente por el retraso 
+                     generado (0.05 aprox en el código con 1 solo bucle for y 15 segundos en el código extendido). 
+                     En resumen, si llega primero la función "restadora", el número va a ser negativo, por el contrario, si llega la función "suma", el resultado será 
+                     positivo y si llegan al mismo tiempo (como pasa en la primer versión del código) el resultado va a ser 0. </h5>
+                  
       </h4>      
    </h3>
          
