@@ -7,6 +7,9 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Trabajos Prácticos (resumido)***
 <!-- This aligns everything below to the left -->
 <header align="left">
+   <h3 align="left"> <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmN5bjBob3l1NDl0b3Zqd2xrNnlobzB1djQ2ZDkwbWIyZ3Y0d3o2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="30">&nbsp;Trabajo Práctico N1
+      <h4 align="left"> Este trabajo práctico consiste en printear nuestro primer "Hola, mundo" en python (Usando Linux como SO) </h4>
+         <img src="./TP1/Thomas.png"/>
    <h3 align="left"> <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd1bHdiZWx5bzdleWk3ZDg4bWM0M3FhOTBvNGhmOWJzems1ZzJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;Trabajo Práctico N2 
       <h4 align="left"> El trabajo práctico consiste en aprender lo basico de github </h4>
          <!-- Unordered List -->
