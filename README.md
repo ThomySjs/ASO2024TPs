@@ -52,6 +52,9 @@
                      generado (0.05 aprox en el código con 1 solo bucle for y 15 segundos en el código extendido). 
                      En resumen, si llega primero la función "restadora", el número va a ser negativo, por el contrario, si llega la función "suma", el resultado será 
                      positivo y si llegan al mismo tiempo (como pasa en la primer versión del código) el resultado va a ser 0. </h5> 
+             </li>
+             <li> Punto 2
+             <img src="./TP3/Punto 2/PuntoC.png"/>
       </h4>      
    </h3>
          
