@@ -7,6 +7,7 @@ int cantidad_restante_hamburguesas = CANTIDAD_INICIAL_HAMBURGUESAS;
 int turno = 0;
 
 void *comer_hamburguesa(void *tid){
+	
 	while (1 == 1)
 	{ 
 		while(turno!=(int)tid);
