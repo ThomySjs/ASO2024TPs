@@ -67,7 +67,7 @@
    </h3>
    <h3 align="left"> <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3A2M3pvam81Z2UyZmhlNDllOW11bGw4dWY0czN0dDMwY2RnOW56bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif" width="30">&nbsp;Video
       <h4 align="left"> Video sobre Alan Turing y el funcionamiento del algoritmo FCFS. </h4>
-      [![](https://markdown-videos.deta.dev/youtube/5xUgBwDwKgg)](https://youtu.be/5xUgBwDwKgg?si=6227yvJGj3GBxN5r)
+   <h4 align="left"> [![](https://markdown-videos.deta.dev/youtube/5xUgBwDwKgg)](https://youtu.be/5xUgBwDwKgg?si=6227yvJGj3GBxN5r) </h4>
    </h3>
          
 </header>
