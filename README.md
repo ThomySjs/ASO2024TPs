@@ -1,5 +1,5 @@
 <!--Banner-->
-![Banner](https://cdn.discordapp.com/attachments/757743068656173097/1231472508574765177/logo.png?ex=66371525&is=6624a025&hm=712e4b0321079dd680512fbfeea88eaeaa87cf188e534561e40bb3c72524652c&)
+![Banner](https://cdn.discordapp.com/attachments/757743068656173097/1231472508574765177/logo.png?ex=66580aa5&is=6656b925&hm=0eda0a5330a22180066d52cd5cb8e518ab1a0235c7db271fca9e3d66ca08f76a&)
 
 # :computer: Arquitectura de Sistemas Operativos :computer: #
 ## :star: Thomas Sejas :star: ##
