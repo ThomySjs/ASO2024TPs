@@ -1,5 +1,5 @@
 <!--Banner-->
-![Banner](https://drive.google.com/file/d/1F0hzjZ9Bj1-u4565DhoIDwdrGyMn1ylz/view?usp=sharing)
+<img src="logo.png">
 
 # :computer: Arquitectura de Sistemas Operativos :computer: #
 ## :star: Thomas Sejas :star: ##
